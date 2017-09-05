@@ -1,0 +1,63 @@
+<!--上-->
+<!-- <view class="detailtop">
+    <view class="detailtoppic">     
+      <image src="{{userInfo.avatarUrl}}"></image>
+      <view class="detailtoptit">{{userInfo.nickName}}</view>
+   </view> 
+</view> -->
+<!--中-->
+ <!-- <view class="indexbom-tit">商品分类</view>  -->
+<view class="indexbom">
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/hc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/cc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/sc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/zc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/lc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/xc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/mc.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/yc.jpg"></image>
+    </navigator>
+  </view>
+
+  <!-- <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_11.jpg"></image>
+    </navigator>
+  </view> -->
+  <!-- <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_14.jpg"></image>
+    </navigator>
+  </view> -->
+  <view class="clear"></view>
+</view>
