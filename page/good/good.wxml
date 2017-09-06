@@ -60,7 +60,7 @@
       </view>
     </view>
   </view>
-  <!-- <view class="cart">
+  <view class="cart">
     <view class="data" bindtap="showCartDetail">
       <view class="icon">
         <image src="/imgs/shop/cart.png"></image>
@@ -73,4 +73,4 @@
         结算
       </button>
     </form>
-  </view> -->
+  </view>
